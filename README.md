@@ -1,5 +1,5 @@
 # Terraform AWS ECS Infrastructure
-
+![ECS Infrastructure](ecs-infra.png)
 Deploys a production-ready ECS Fargate application on AWS with:
 - Remote state (S3 + DynamoDB)
 - ECR private repository
